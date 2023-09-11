@@ -1,0 +1,229 @@
+{
+  "public_identifier": "mariephilippegill",
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/mariephilippegill/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230906%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230906T151702Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=83471841f92f777ecb670896e3e3a931cee2b53175bc6b6885cde4582c83ebd0",
+  "background_cover_image_url": null,
+  "first_name": "Marie-Philippe",
+  "last_name": "Gill, eng",
+  "full_name": "Marie-Philippe Gill, eng",
+  "follower_count": 3704,
+  "occupation": "NLP Research Developer at Croesus",
+  "headline": "NLP Research Developer and Content Creator",
+  "country": "CA",
+  "country_full_name": "Canada",
+  "city": "Greater Montreal Metropolitan Area",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": { "day": 1, "month": 11, "year": 2021 },
+      "ends_at": null,
+      "company": "Croesus",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/croesus-finansoft/",
+      "title": "NLP Research Developer",
+      "description": null,
+      "location": "Laval, Quebec, Canada"
+    },
+    {
+      "starts_at": { "day": 1, "month": 3, "year": 2016 },
+      "ends_at": null,
+      "company": "Girl Knows Tech",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/girlknowstech/",
+      "title": "Content Creator",
+      "description": "- Grew a community of over 80,000 followers across Instagram, YouTube, Facebook, and Twitter.\n- Wrote over 120 posts in French and English about tech, blogging, and women in technology.\n- Grew organic traffic to +15,000 users/month by researching the best SEO practices.\n\nTools used: WordPress, Search Engine Optimization (SEO), Google Analytics, Google Search Console, Influencer Marketing, Social Media Sponsorships, and more.",
+      "location": "Montreal, Canada Area"
+    },
+    {
+      "starts_at": { "day": 1, "month": 1, "year": 2020 },
+      "ends_at": { "day": 1, "month": 5, "year": 2020 },
+      "company": "Johns Hopkins Whiting School of Engineering",
+      "company_linkedin_profile_url": null,
+      "title": "Visiting Graduate Student",
+      "description": "- Collaborated with researchers on the BEAT-PD challenge for Parkinson's Disease \n- Research with the Center for Language and Speech Processing.",
+      "location": "Baltimore, Maryland Area"
+    },
+    {
+      "starts_at": { "day": 1, "month": 6, "year": 2019 },
+      "ends_at": { "day": 1, "month": 8, "year": 2019 },
+      "company": "Johns Hopkins Whiting School of Engineering",
+      "company_linkedin_profile_url": null,
+      "title": "Undergraduate AI Researcher",
+      "description": "- Evaluated if we can correctly classify domains in challenging audio recordings\n- Improved the DIHARD detection error rate by more than 10% (relative)\n- Assessed the pipeline performance with different datasets and configurations\n\nFor the Sixth Frederick Jelinek Memorial Summer Workshop, I had the chance to work with a team of 20 researchers from around the world on \"Speaker Detection in Adverse Scenarios with a Single Microphone\". I worked on domain-adversarial training. I also participated in the Summer School on human language technologies that took place before the workshop.",
+      "location": "Montreal, Canada Area"
+    },
+    {
+      "starts_at": { "day": 1, "month": 2, "year": 2016 },
+      "ends_at": { "day": 1, "month": 1, "year": 2019 },
+      "company": "\u00c9cole de technologie sup\u00e9rieure (\u00c9TS)",
+      "company_linkedin_profile_url": null,
+      "title": "Ambassador",
+      "description": "- Represent ETS during presentations at various events\n- Answer questions of new students so they can integrate well into student life",
+      "location": "Montreal, Canada Area"
+    },
+    {
+      "starts_at": { "day": 1, "month": 1, "year": 2019 },
+      "ends_at": { "day": 1, "month": 4, "year": 2019 },
+      "company": "Intact",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/intact/",
+      "title": "Data Scientist",
+      "description": "- Adapted state-of-the-art models for the business's specific needs\n- Analyzed and pre-processed audio transcriptions using NLP techniques",
+      "location": "Montreal, Canada Area"
+    },
+    {
+      "starts_at": { "day": 1, "month": 9, "year": 2015 },
+      "ends_at": { "day": 1, "month": 1, "year": 2019 },
+      "company": "Les Ing\u00e9nieuses",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/les-ing%C3%A9nieuses/",
+      "title": "Member",
+      "description": "Les Ing\u00e9nieuses is a student club of \u00c9cole de Technologie Sup\u00e9rieure (\u00c9TS) whose mission is to promote and encourage girls and women to pursue careers in engineering.",
+      "location": "\u00c9cole de technologie sup\u00e9rieure"
+    },
+    {
+      "starts_at": { "day": 1, "month": 9, "year": 2017 },
+      "ends_at": { "day": 1, "month": 10, "year": 2018 },
+      "company": "Les Ing\u00e9nieuses",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/les-ing%C3%A9nieuses/",
+      "title": "President",
+      "description": "- Organized events for the club\n- Created and document new processes to make the club sustainable\n- Managed reunions and deadlines for the events",
+      "location": "\u00c9cole de technologie sup\u00e9rieure"
+    },
+    {
+      "starts_at": { "day": 1, "month": 1, "year": 2016 },
+      "ends_at": { "day": 1, "month": 9, "year": 2017 },
+      "company": "Les Ing\u00e9nieuses",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/les-ing%C3%A9nieuses/",
+      "title": "Vice President",
+      "description": "- Managed all the social media accounts \n- Organized events to promote women in engineering inside and outside \u00c9TS\n- Organized meetings to follow the progress of the events we are organizing",
+      "location": "\u00c9cole de technologie sup\u00e9rieure"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": { "day": 1, "month": 1, "year": 2019 },
+      "ends_at": { "day": 1, "month": 4, "year": 2021 },
+      "field_of_study": "Artificial Intelligence",
+      "degree_name": "Master's degree in Information Technology Engineering",
+      "school": "\u00c9cole de technologie sup\u00e9rieure"
+    },
+    {
+      "starts_at": { "day": 1, "month": 1, "year": 2015 },
+      "ends_at": { "day": 1, "month": 1, "year": 2019 },
+      "field_of_study": "Software Engineering",
+      "degree_name": "Engineer\u2019s Degree",
+      "school": "\u00c9cole de technologie sup\u00e9rieure"
+    }
+  ],
+  "languages": ["English", "French", "Hindi"],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [
+    {
+      "name": "End-to-end Domain-Adversarial Voice Activity Detection",
+      "publisher": "Interspeech 2020",
+      "published_on": { "day": 1, "month": 1, "year": 2020 },
+      "description": null,
+      "url": "https://arxiv.org/abs/1910.10655"
+    }
+  ],
+  "accomplishment_honors_awards": [
+    {
+      "title": "ETS Ambassador",
+      "issuer": "\u00c9cole de Technologie Sup\u00e9rieure",
+      "issued_on": { "day": 1, "month": 10, "year": 2022 },
+      "description": "Ambassador for ETS. "
+    },
+    {
+      "title": "Rising Star 2021",
+      "issuer": "Montreal Startup Community",
+      "issued_on": { "day": 1, "month": 12, "year": 2021 },
+      "description": null
+    },
+    {
+      "title": "Research scholarship",
+      "issuer": "Fonds de recherche Nature et Technologies (FQRNT) ",
+      "issued_on": { "day": 1, "month": 5, "year": 2020 },
+      "description": "This grant of $17,500/year was created to promote and financially help research in STEM. They are awarded based on the candidate's academic excellence, past experiences and potential in research, abilities to communicate research, and volunteering experiences."
+    },
+    {
+      "title": "Pierre Sauv\u00e9, ing. scholarship for promoting women in engineering",
+      "issuer": "Fondation de l'Ordre des ing\u00e9nieurs du Qu\u00e9bec",
+      "issued_on": { "day": 1, "month": 5, "year": 2019 },
+      "description": "This scholarship is awarded to highlight the recipients' efforts in inspiring the next generation of women to have a career in engineering and recognizing the impacts their initiatives already had on the profession."
+    },
+    {
+      "title": "Laur\u00e9ate Personnalit\u00e9 1er cycle",
+      "issuer": "Forces AVENIR",
+      "issued_on": { "day": 1, "month": 9, "year": 2018 },
+      "description": "This scholarship is awarded to undergraduate students who distinguished themselves by the extraordinary balance between academic results and their personal and social impact on society. Through their leadership and constant social engagement throughout their studies, they had a significant impact on society.\n\nhttps://www.youtube.com/watch?v=E8iLDGSrOuk"
+    },
+    {
+      "title": "Women Techmakers Scholars",
+      "issuer": "Google",
+      "issued_on": { "day": 1, "month": 5, "year": 2018 },
+      "description": "Awarded by Google to only 20 recipients in North America, this scholarship recognizes the efforts of exceptional students on their incredible academic performance, leadership, and the impact they had on their local community with their efforts to inspire more women to have a career in technology."
+    },
+    {
+      "title": "Lieutenant Governor\u2019s Youth Medal",
+      "issuer": "Cabinet du Lieutenant-Gouverneur",
+      "issued_on": { "day": 1, "month": 4, "year": 2018 },
+      "description": "Honorary distinction offered to Quebeckers who have a positive influence in their community through their school and community involvement. The medal recognizes commitment, determination and surpassing oneself."
+    },
+    {
+      "title": "Lockheed Martin Canada Scholarship",
+      "issuer": "Lockheed Martin Canada",
+      "issued_on": { "day": 1, "month": 4, "year": 2018 },
+      "description": null
+    },
+    {
+      "title": "Youth Recognition Award - Education",
+      "issuer": "Gouvernement du Qu\u00e9bec",
+      "issued_on": { "day": 1, "month": 3, "year": 2018 },
+      "description": "The Prime Minister of Quebec offers this national recognition to an individual who has distinguished themselves for their dedication to Quebec youth.\n\nhttps://www.youtube.com/watch?v=3RvqfR9IVzc"
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": { "day": 1, "month": 1, "year": 2018 },
+      "ends_at": null,
+      "title": "Organizing Team",
+      "cause": "EDUCATION",
+      "company": "Women Techmakers Montreal",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/women-techmakers-montreal/",
+      "description": "-  Responsible for all the social media communications before, during, and after the event\n\nWomen Techmakers is a program created by Google to celebrate International Women's Day and to highlight the talent of women in technology. Every year, over 200 global events are held in 52 countries. The Montreal event has on average 300 attendees.",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQHGc36WY1eDNA/company-logo_400_400/0/1613874121707?e=1700092800&v=beta&t=t4SCXJmaURF_dbc_rSbRE36WGCOR_LApF8DQSRmbyLU"
+    },
+    {
+      "starts_at": { "day": 1, "month": 7, "year": 2019 },
+      "ends_at": { "day": 1, "month": 1, "year": 2022 },
+      "title": "Work Group Women In Engineering",
+      "cause": "CIVIL_RIGHTS",
+      "company": "Ordre des ing\u00e9nieurs du Qu\u00e9bec",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ordreingenieursqc/",
+      "description": "- Discuss the reality of women in engineering\n- Suggest actions to reach the objective of 30% of women in engineering for 2030",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQF_iEGlsrMrEA/company-logo_400_400/0/1672760262296?e=1700092800&v=beta&t=A2PJNS0hiTiXaR9-mmEvgAQg6ctjoSkA6eKx2XR6yOM"
+    },
+    {
+      "starts_at": { "day": 1, "month": 9, "year": 2021 },
+      "ends_at": null,
+      "title": "Member of the Jury",
+      "cause": "SCIENCE_AND_TECHNOLOGY",
+      "company": "Forces AVENIR",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/forces-avenir/",
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQFPT37ft-Etfg/company-logo_400_400/0/1519893321005?e=1700092800&v=beta&t=SewGHjPiP-VBL5RTHNV4rqLgpG_JwJr9b8EWr1X4v2E"
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": { "day": 1, "month": 12, "year": 2022 },
+      "ends_at": null,
+      "name": "Deep Learning Bootcamp with Dr. Jon Krohn",
+      "license_number": "32uen bkah27e7j6",
+      "display_source": null,
+      "authority": "Ai+ Training"
+    }
+  ],
+  "gender": "female",
+  "industry": "computer software",
+  "extra": {
+    "facebook_profile_id": "facebook.com/mariephilippe.gill"
+  }
+}

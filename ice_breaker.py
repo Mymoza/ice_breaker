@@ -7,6 +7,9 @@ import os
 from dotenv import load_dotenv
 import requests
 import json
+from agents.twitter_lookup_agent import lookup as twitter_lookup_agent
+
+from third_parties.twitter_with_stubs import scrape_user_tweets
 # Load environment variables from .env file
 load_dotenv()
 from third_parties.linkedin import scrape_linkedin_profile
@@ -22,13 +25,16 @@ In 2002, eBay acquired PayPal for $1.5 billion, and that same year, with $100 mi
 Musk has expressed views that have made him a polarizing figure. He has been criticized for making unscientific and misleading statements, including that of spreading COVID-19 misinformation, and promoting conspiracy theories.[7][8][9] His Twitter ownership has been similarly controversial, including letting off a large number of employees,[10] an increase in hate speech on the platform[11] and features such as Twitter Blue and the implementation of limits on the amount of viewable Tweets per day being criticized.[12][13][14][15] In 2018, the U.S. Securities and Exchange Commission (SEC) sued him for falsely tweeting that he had secured funding for a private takeover of Tesla. To settle the case, Musk stepped down as the chairman of Tesla and paid a $20 million fine.
 """
 
+name = "Elon Musk"
 if __name__ == '__main__':
     print("Hello LangChain!")
     
     summary_template = """
-            given the information {information} about a person from I want you to create:
+            given the LinkedIn information {linkedin_information} and twitter {twitter_information} about a person from I want you to create:
             1. a short summary
             2. two interesting facts about them 
+            3. A topic that may interests them
+            4. 2 creative ice breakers to open conversation with them
         """
     
     
@@ -81,12 +87,24 @@ if __name__ == '__main__':
     #     # Serialize the JSON data and write it to the file
     #     json.dump(response.json(), file)
 
+
+
+    ##################
+    # LinkedIn Profile
+    ##################
+    
     linkedin_profile_url = linkedin_lookup_agent(name="Desh Raj")
-    print('Linkedin profile url : ', linkedin_profile_url)
     linkedin_data = scrape_linkedin_profile(linkedin_profile_url=linkedin_profile_url)
 
+
+
+    twitter_username = twitter_lookup_agent(name=name)
+    tweets = scrape_user_tweets(username=twitter_username, num_tweets=100)
+    # print(scrape_user_tweets(username="@Test979948"))
+    
+
     ###### LLM PART 
-    summary_prompt_template = PromptTemplate(input_variables=["information"], template=summary_template)
+    summary_prompt_template = PromptTemplate(input_variables=["linkedin_information", "twitter_information"], template=summary_template)
 
     llm = AzureChatOpenAI(temperature=0, model_name="gpt-35-turbo", deployment_name="gpt-35-turbo")
 
@@ -94,4 +112,4 @@ if __name__ == '__main__':
 
     # information argument became valid because we used {information} within the prompt and gave that to the chain
     # so when we run, it is expecting information keyword
-    print(chain.run(information=linkedin_data))
+    print(chain.run(linkedin_information=linkedin_data, twitter_information=tweets))
